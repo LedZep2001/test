@@ -1,0 +1,7 @@
+path: /home/zjl/PycharmProject/yolo/data/processed/images
+train: /home/zjl/PycharmProject/yolo/data/processed/images/train
+val: /home/zjl/PycharmProject/yolo/data/processed/images/val
+test:
+
+nc: 2
+names: ['car':0, 'bus':0, 'van':0, 'others':1]
